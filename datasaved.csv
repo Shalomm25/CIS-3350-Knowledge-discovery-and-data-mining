@@ -1,0 +1,27 @@
+,pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
+1030,1,0,"Fortune, Mr. Mark",male,64.0,1,4,19950,263.0,C23 C25 C27,S,,,"Winnipeg, MB"
+1014,1,0,"Ryerson, Mr. Arthur Larned",male,61.0,1,3,PC 17608,262.375,B57 B59 B63 B66,C,,,"Haverford, PA / Cooperstown, NY"
+1037,1,0,"Straus, Mr. Isidor",male,67.0,1,0,PC 17483,221.7792,C55 C57,S,,96.0,"New York, NY"
+1032,1,0,"Warren, Mr. Frank Manley",male,64.0,1,0,110813,75.25,D37,C,,,"Portland, OR"
+1038,1,0,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,B22,S,,269.0,"Milwaukee, WI"
+1034,1,0,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,61.9792,B30,C,,234.0,"Providence, RI"
+1041,1,0,"Artagaveytia, Mr. Ramon",male,71.0,0,0,PC 17609,49.5042,,C,,22.0,"Montevideo, Uruguay"
+1042,1,0,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,A5,C,,,"New York, NY"
+1016,1,0,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,33.5,B19,S,,245.0,"Brooklyn, NY"
+1015,1,0,"Sutton, Mr. Frederick",male,61.0,0,0,36963,32.3208,D50,S,,46.0,"Haddenfield, NJ"
+1045,1,1,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,27042,30.0,A23,S,B,,"Hessle, Yorks"
+1033,1,0,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,26.55,E38,S,,249.0,"East Bridgewater, MA"
+1019,1,0,"Stead, Mr. William Thomas",male,62.0,0,0,113514,26.55,C87,S,,,"Wimbledon Park, London / Hayling Island, Hants"
+1021,1,0,"Wright, Mr. George",male,62.0,0,0,113807,26.55,,S,,,"Halifax, NS"
+1031,1,0,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,693,26.0,,S,,263.0,"Isle of Wight, England"
+1026,2,0,"Howard, Mr. Benjamin",male,63.0,1,0,24065,26.0,,S,,,"Swindon, England"
+1017,2,0,"Lingane, Mr. John",male,61.0,0,0,235509,12.35,,Q,,,
+1036,2,0,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,,S,,,"Guernsey, England / Edgewood, RI"
+1039,2,0,"Mitchell, Mr. Henry Michael",male,70.0,0,0,C.A. 24580,10.5,,S,,,"Guernsey / Montclair, NJ and/or Toledo, Ohio"
+1022,2,1,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,10.5,,S,15,,London
+1023,2,0,"Myles, Mr. Thomas Francis",male,62.0,0,0,240276,9.6875,,Q,,,"Cambridge, MA"
+1043,3,0,"Svensson, Mr. Johan",male,74.0,0,0,347060,7.775,,S,,,
+1035,3,0,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,,Q,,,
+1040,3,0,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,,Q,,171.0,
+1018,3,0,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,345364,6.2375,,S,,,
+1013,3,0,"Storey, Mr. Thomas",male,60.5,0,0,3701,,,S,,261.0,
